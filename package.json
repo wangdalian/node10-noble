@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "noble": "file:./packages/noble"
+  }
+}
